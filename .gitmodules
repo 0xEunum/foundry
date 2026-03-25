@@ -31,3 +31,6 @@
 [submodule "foundry-Account-Abstraction"]
 	path = foundry-Account-Abstraction
 	url = https://github.com/Eunum56/foundry-Account-Abstraction
+[submodule "foundry-dao"]
+	path = foundry-dao
+	url = https://github.com/0xEunum/foundry-dao
