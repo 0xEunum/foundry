@@ -1,6 +1,6 @@
-# Foundry Project
+# Foundry Projects
 
-Welcome to the Foundry Project repository! This repository contains multiple projects related to Foundry development
+Welcome to the Foundry Projects repository! This monorepo contains smart contract projects and protocols built while completing the **[Cyfrin Updraft](https://updraft.cyfrin.io/)** Advanced Foundry curriculum.
 
 ## Contents
 
@@ -8,11 +8,12 @@ Welcome to the Foundry Project repository! This repository contains multiple pro
 - [Getting Started](#getting-started)
 - [Projects](#projects)
 - [Contributing](#contributing)
+- [Acknowledgments](#acknowledgments)
 - [License](#license)
 
 ## Overview
 
-The Foundry Project aims to provide a collection of various Foundry-related projects. Each subfolder represents an individual project with its own purpose and functionality.
+This repository serves as a centralized monorepo for all smart contract projects developed during the **[Cyfrin Updraft](https://updraft.cyfrin.io/)** Foundry curriculum. Each directory represents a standalone project (managed as Git submodules) showcasing various Solidity and Foundry concepts—ranging from basic storage and DeFi protocols to account abstraction, upgradeable contracts, and on-chain DAOs.
 
 ## Getting Started
 
@@ -122,6 +123,10 @@ Contributions are welcome! Please follow these steps to contribute:
 3. Make your changes and commit them: `git commit -m 'Add new feature'`.
 4. Push to the branch: `git push origin my-feature-branch`.
 5. Create a pull request.
+
+## Acknowledgments
+
+Special thanks to **[Cyfrin Updraft](https://updraft.cyfrin.io/)** and **[Patrick Collins](https://github.com/PatrickAlphaC)** for providing an exceptional, free, and in-depth Web3 education curriculum covering Foundry fundamentals and advanced smart contract development.
 
 ## License
 
