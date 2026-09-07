@@ -106,6 +106,12 @@ To get started with the Foundry Project, follow these steps:
 - Description: A Simple Account Abstraction on Ethereum and ZKSync network project example using Foundry.
 - Repository: [foundry-Account-Abstraction](https://github.com/Eunum56/foundry-Account-Abstraction.git)
 
+### Foundry DAO
+
+- Path: `foundry-dao/`
+- Description: A Simple on-chain DAO (Decentralized Autonomous Organization) project example using Foundry.
+- Repository: [foundry-dao](https://github.com/0xEunum/foundry-dao)
+
 
 ## Contributing
 
